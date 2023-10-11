@@ -1,1 +1,2 @@
 texto 1  haciendo pruebas
+editando para la rama desacoplado
