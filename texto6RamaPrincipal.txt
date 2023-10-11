@@ -1,2 +1,3 @@
 texto6 
 rama principal
+estaba editando pero no termine asi k guardare en un stash para poder trabajar despues
